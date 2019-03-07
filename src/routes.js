@@ -23,6 +23,8 @@ routes.use((req, res, next) => {
 routes.get('/app/available/:provider', AvailableController.index)
 
 routes.get('/app/appointments/new/:provider', AppointmentController.create)
+routes.post('/app/appointments/new/:provider', AppointmentController.store)
+
 routes.get('/files/:file', FileController.show)
 
 routes.use('/app', authMiddleware)
