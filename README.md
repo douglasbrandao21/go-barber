@@ -7,6 +7,12 @@ GoBarber is an application that aims to solve the problem of schedule reservatio
 ## Used Technologies
 The main technology used for the GoBarber's development was the NodeJS in backend of the application. The Postgres relational database was used in conjunction with the MVC development standard. The other techniques used are listed below:
 
+* bcryptjs // encrypt passwords
+* connect-flash // flash messages
+* connect-loki // store the seasson in local database
+* express // route management
+* express-session // session control
+
 <p align="center">
  <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/login.jpg" width="900" height="550"/>
 </p>
