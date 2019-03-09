@@ -12,6 +12,15 @@ The main technology used for the GoBarber's development was the NodeJS in backen
 * connect-loki // store the seasson in local database
 * express // route management
 * express-session // session control
+* moment // format and work with dates
+* multer // middleware for handling multipart/form-data
+* nodemon // restart the server automatically
+* nunjucks // template engine
+* pg // postgres
+* sequelize // ORM for relational database
+* eslint and prettier // code format
+
+## Previews of the Application
 
 <p align="center">
  <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/login.jpg" width="900" height="550"/>
