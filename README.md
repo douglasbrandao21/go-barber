@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/dashboard.jpg" width="400" height="740"/>
+ <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/dashboard.jpg" width="400" height="750"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/horarios.jpg" width="400" height="740"/>
+  <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/horarios.jpg" width="400" height="750"/>
 </p>
