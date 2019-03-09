@@ -22,18 +22,23 @@ The main technology used for the GoBarber's development was the NodeJS in backen
 
 ## Previews of the Application
 
+
 <p align="center">
+ Login Screen
  <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/login.jpg" width="900" height="550"/>
 </p>
 
 <p align="center">
+  Signup Screen
   <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/cadastro.jpg" width="900" height="550"/>
 </p>
 
 <p align="center">
+  Dashboard Screen
  <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/dashboard.jpg" width="400" height="750"/>
 </p>
 
 <p align="center">
+  Schedules Screen
   <img src="https://github.com/douglasbrandao21/go-barber/blob/master/previews/horarios.jpg" width="400" height="750"/>
 </p>
